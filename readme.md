@@ -3,8 +3,8 @@
 `` pip install pythonping `` <br />
 `` pip install validators ``
 
-## The script needs root permission to function correctly. 
+## This script needs root permission to function correctly. 
 
-> To execute the script on Linux/ Unix based systems, run:
+> To execute the script on Linux/Unix based systems, run:
 
 `` sudo python3 pingWebsite.py ``
